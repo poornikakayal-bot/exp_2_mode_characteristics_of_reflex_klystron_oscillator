@@ -69,13 +69,14 @@ As the bunches pass back through the resonator grids they interact with the gap 
 
 ## Observation
 
-S.No	Repeller Voltage (V_R) (V)	Frequency (f) (GHz)	Output Power (mW)
-1	275	9.970	12
-2	295	9.982	16
-3	315	9.994	19
-4	335	10.006	20
-5	355	10.018	17
-6	375	10.030	12
+| S.No	Repeller Voltage (V_R) (V)	Frequency (f) (GHz)	Output Power (mW)|
+|...|....|
+|1	|275	|9.970	|12
+|2	|295	|9.982	|16
+|3	|315	|9.994	|19
+|4	|335	|10.006	|20
+|5	|355	|10.018	|17
+|6	|375	|10.030	|12
 
 ## Graph
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/d64efb32-625f-4d81-bc6b-f9171f4e8dd5" />
